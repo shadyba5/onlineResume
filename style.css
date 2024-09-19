@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+
+footer{
+  text-align: center;
+}
+a.contact-text {
+  padding: 0 120px; /* Space around each link */
+}
