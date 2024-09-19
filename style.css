@@ -1,10 +1,21 @@
+*:not(h1):not(h2){
+  background-color: rgb(205, 190, 240);
+  font-weight: normal;
+  font-family: Calibri;
+}
+
 h1{
-    text-align: center;
+  text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+a.contact-text {
+  padding: 0 120px; /* Space around each link */
 }
 
 footer{
   text-align: center;
-}
-a.contact-text {
-  padding: 0 120px; /* Space around each link */
 }
