@@ -1,5 +1,7 @@
 *:not(h1):not(h2){
-  background-color: rgb(187, 255, 187);
+  background: linear-gradient(300deg ,#EDE8DC, #E7CCCC,#C1CFA1);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
   font-weight: normal;
   font-family: Calibri;
 }
